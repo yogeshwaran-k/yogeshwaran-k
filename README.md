@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/k-yogeshwaran" target="_blank">
+  <a href="https://www.linkedin.com/in/k-yogeshwaran" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="31" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/cybertron_yoyo/" target="_blank">
